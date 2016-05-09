@@ -1,0 +1,13 @@
+c:\users\john.ryan\documents\visual studio 2012\Projects\Xml1095Encoder\Xml1095Encoder\bin\Debug\Xml1095Encoder.exe.config
+c:\users\john.ryan\documents\visual studio 2012\Projects\Xml1095Encoder\Xml1095Encoder\bin\Debug\Xml1095Encoder.exe
+c:\users\john.ryan\documents\visual studio 2012\Projects\Xml1095Encoder\Xml1095Encoder\bin\Debug\Xml1095Encoder.pdb
+c:\users\john.ryan\documents\visual studio 2012\Projects\Xml1095Encoder\Xml1095Encoder\obj\Debug\MainWindow.baml
+c:\users\john.ryan\documents\visual studio 2012\Projects\Xml1095Encoder\Xml1095Encoder\obj\Debug\MainWindow.g.cs
+c:\users\john.ryan\documents\visual studio 2012\Projects\Xml1095Encoder\Xml1095Encoder\obj\Debug\App.g.cs
+c:\users\john.ryan\documents\visual studio 2012\Projects\Xml1095Encoder\Xml1095Encoder\obj\Debug\Xml1095Encoder_MarkupCompile.cache
+c:\users\john.ryan\documents\visual studio 2012\Projects\Xml1095Encoder\Xml1095Encoder\obj\Debug\Xml1095Encoder.g.resources
+c:\users\john.ryan\documents\visual studio 2012\Projects\Xml1095Encoder\Xml1095Encoder\obj\Debug\Xml1095Encoder.Properties.Resources.resources
+c:\users\john.ryan\documents\visual studio 2012\Projects\Xml1095Encoder\Xml1095Encoder\obj\Debug\Xml1095Encoder.csproj.GenerateResource.Cache
+c:\users\john.ryan\documents\visual studio 2012\Projects\Xml1095Encoder\Xml1095Encoder\obj\Debug\Xml1095Encoder.exe
+c:\users\john.ryan\documents\visual studio 2012\Projects\Xml1095Encoder\Xml1095Encoder\obj\Debug\Xml1095Encoder.pdb
+C:\Users\John.Ryan\documents\visual studio 2012\Projects\Xml1095Encoder\Xml1095Encoder\obj\Debug\Xml1095Encoder.csprojResolveAssemblyReference.cache

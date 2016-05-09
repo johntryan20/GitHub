@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xml1095Encoder", "Xml1095Encoder\Xml1095Encoder.csproj", "{0644B56A-8EE6-4CF9-85AE-D61DA729474A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0644B56A-8EE6-4CF9-85AE-D61DA729474A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0644B56A-8EE6-4CF9-85AE-D61DA729474A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0644B56A-8EE6-4CF9-85AE-D61DA729474A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0644B56A-8EE6-4CF9-85AE-D61DA729474A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
